@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, welcome to my GH👋
+
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiden00&show_icons=true&show=reviews)
+
+- 🔭 I’m currently working on TBD
+- 🌱 I’m currently learning TBD
+- 👯 I’m looking to collaborate on TBD
+- 📫 How to reach me: TBD
 
 <!--
 **baiden00/baiden00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
